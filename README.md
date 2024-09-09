@@ -1,2 +1,2 @@
 # odin recipes
- odin project 
+This is only an exercise from Odin Project.

@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(243, 232, 219);
+    color: black;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.center {
+    text-align: center;
+}
+
+.chef-img {
+    width: 200px;
+    height: 200px;
+}
+
+ul {
+    font-size: 22px;
+}
+
+a {
+    color: brown;
+}
